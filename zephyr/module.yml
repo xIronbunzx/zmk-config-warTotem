@@ -1,3 +1,5 @@
+name: zmk-keyboard-wartotem
 build:
   settings:
     board_root: .
+    snippet_root: .
