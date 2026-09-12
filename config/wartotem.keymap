@@ -17,7 +17,7 @@
 //		----------------------------------------------		--------------------------------------------------
        &kp ESC   &kp Z   &kp X   &kp C   &kp V   &kp B  	 &kp N  &kp M &kp COMMA &kp DOT &kp FSLH &kp BSPC
 //		-----------------------------------------------		-------------------------------------------------
-						  kp U   &kp V   &kp W   &kp X  	 &kp Y  &kp Z  &kp A  &kp B
+						  &kp U   &kp V   &kp W   &kp X  	 &kp Y  &kp Z  &kp A  &kp B
 //				         ------------------------------		----------------------------
             >;
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
