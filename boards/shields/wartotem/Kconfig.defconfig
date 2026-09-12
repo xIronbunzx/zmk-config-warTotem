@@ -1,8 +1,7 @@
 if SHIELD_WARTOTEM_LEFT
 
-# Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
-    default "warTotem"
+    default "wartotem"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
@@ -33,7 +32,7 @@ if SHIELD_WARTOTEM_DONGLE
 
 # Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
-    default "warTotem"
+    default "wartotem"
 
 config ZMK_SPLIT
     default y
